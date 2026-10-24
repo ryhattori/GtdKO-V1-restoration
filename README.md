@@ -42,3 +42,7 @@ Run the scripts in the order below. Each script writes its outputs (CSV tables, 
 | 8. Source data | `source_data/01`–`02` | source data files |
 
 Python scripts are run with `python <script>.py` and R scripts with `Rscript <script>.R`, in numerical order within each folder.
+
+## License
+
+MIT License (see `LICENSE`).
